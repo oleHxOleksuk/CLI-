@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oleHxOleksuk/CLI-.git"
+    "url": "git+https://github.com/oleHxOleksuk/CLI--application.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oleHxOleksuk/CLI-/issues"
+    "url": "https://github.com/oleHxOleksuk/CLI--application/issues"
   },
-  "homepage": "https://github.com/oleHxOleksuk/CLI-#readme"
+  "homepage": "https://github.com/oleHxOleksuk/CLI--application#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
