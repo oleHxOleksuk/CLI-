@@ -8,4 +8,8 @@
 
 [node index.js --action get](https://ibb.co/HDfk6fw)
 
+# Add contact
+
+[node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22](https://ibb.co/HDfk6fw)
+
 
